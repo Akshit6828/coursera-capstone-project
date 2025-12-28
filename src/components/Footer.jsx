@@ -21,10 +21,10 @@ const Footer = () => {
                 </div>
                 <div className="footer-contact">
                     <h3>Location</h3>
-                    <p>123 Marine Drive</p>
-                    <p>Mumbai, MH 400020</p>
-                    <p>+91 9465675515</p>
-                    <p>contact@littlelemon.com</p>
+                    <p>Connaught Place</p>
+                    <p>New Delhi, DL 110001</p>
+                    <p>+91 9876543210</p>
+                    <p>contact@example.com</p>
                 </div>
                 <div className="footer-social">
                     <h3>Links</h3>

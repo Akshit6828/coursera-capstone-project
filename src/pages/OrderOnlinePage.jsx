@@ -11,7 +11,7 @@ const OrderOnlinePage = () => {
             <div style={{ marginTop: '2rem' }}>
                 <h2 style={{ fontSize: '2rem', marginBottom: '0.5rem', color: 'var(--primary-green)' }}>Call to Order</h2>
                 <a 
-                    href="tel:+919465675515" 
+                    href="tel:+919876543210" 
                     style={{ 
                         fontSize: '2.5rem', 
                         fontWeight: '800', 
@@ -22,7 +22,7 @@ const OrderOnlinePage = () => {
                         marginTop: '10px'
                     }}
                 >
-                    +91 9465675515
+                    +91 9876543210
                 </a>
                 <p style={{ marginTop: '1rem', fontSize: '0.9rem', color: '#666' }}>
                     Available Mon-Sun: 11:00am - 10:00pm

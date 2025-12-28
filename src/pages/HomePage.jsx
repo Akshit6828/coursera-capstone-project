@@ -18,8 +18,8 @@ const HomePage = () => {
                     </div>
                     <div className="hero-image">
                        <img 
-                            src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
-                            alt="Restaurant Food" 
+                            src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000&auto=format&fit=crop" 
+                            alt="Restaurant Interior" 
                             className="hero-img-real"
                        />
                     </div>
@@ -38,7 +38,7 @@ const HomePage = () => {
                         {/* Card 1 */}
                         <article className="card">
                             <img 
-                                src="https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
+                                src="https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?q=80&w=400&auto=format&fit=crop" 
                                 alt="Greek Salad" 
                                 className="card-img"
                             />
@@ -57,16 +57,16 @@ const HomePage = () => {
                         {/* Card 2 */}
                         <article className="card">
                             <img 
-                                src="https://images.unsplash.com/photo-1595295333158-4742f28fbd85?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
-                                alt="Bruschetta" 
+                                src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=400&auto=format&fit=crop" 
+                                alt="Penne Pasta" 
                                 className="card-img"
                             />
                              <div className="card-content">
                                 <div className="card-title">
-                                    <h3>Bruschetta</h3>
-                                    <span className="price">₹250</span>
+                                    <h3>Penne Pasta</h3>
+                                    <span className="price">₹350</span>
                                 </div>
-                                <p>Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.</p>
+                                <p>Delicious penne pasta tossed in a spicy tomato basil sauce, garnished with fresh parmesan.</p>
                                 <div className="order-delivery">
                                     <Link to="/order">Order a delivery</Link>
                                 </div>
@@ -76,16 +76,16 @@ const HomePage = () => {
                          {/* Card 3 */}
                          <article className="card">
                             <img 
-                                src="https://images.unsplash.com/photo-1599785209796-786432b228bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
-                                alt="Lemon Dessert" 
+                                src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=400&auto=format&fit=crop" 
+                                alt="Chocolate Cake" 
                                 className="card-img"
                             />
                              <div className="card-content">
                                 <div className="card-title">
-                                    <h3>Lemon Dessert</h3>
-                                    <span className="price">₹200</span>
+                                    <h3>Chocolate Cake</h3>
+                                    <span className="price">₹300</span>
                                 </div>
-                                <p>This comes straight from grandma's recipe book, every last ingredient has been sourced and is as authentic as can be imagined.</p>
+                                <p>Decadent, rich chocolate cake topped with a silky ganache and fresh berries.</p>
                                 <div className="order-delivery">
                                     <Link to="/order">Order a delivery</Link>
                                 </div>

@@ -1,11 +1,11 @@
 :root {
-  --primary-green: #2E4039; /* Darker, richer green */
-  --primary-yellow: #F4CE14;
-  --secondary-salmon: #EE9972;
-  --secondary-light: #FBDABB;
-  --highlight-white: #F8F9FA;
-  --highlight-gray: #333333;
-  --background-color: #F0F2F1; /* Subtle tint background */
+  --primary-green: #0d253f; /* Deep Navy - Premium Look */
+  --primary-yellow: #d4af37; /* Metallic Gold - Elegant Accent */
+  --secondary-salmon: #1565c0; /* Strong Blue */
+  --secondary-light: #f4f6f8; /* Cool Grayish White */
+  --highlight-white: #ffffff;
+  --highlight-gray: #1a1a1a;
+  --background-color: #fafafa; /* Clean off-white background */
   --font-family-serif: "Markazi Text", serif;
   --font-family-sans: "Karla", sans-serif;
 }
